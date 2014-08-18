@@ -1,7 +1,4 @@
 // Package power provides a library to read SysFS info on battery state.
-//
-// Icons are taken from the current GTK theme, typically stored at
-// /usr/share/icons/gnome/32x32/status or similar.
 package power
 
 import (
