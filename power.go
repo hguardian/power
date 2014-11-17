@@ -1,5 +1,5 @@
 // Package power provides a library to read SysFS info on battery state.
-package power
+package power // import "hkjn.me/power"
 
 import (
 	"errors"
